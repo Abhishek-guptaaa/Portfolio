@@ -12,7 +12,7 @@ export const Bio = {
   description:
     "I'm a passionate Data Scientist & Machine Learning Engineer with a strong background in Python, AI, and Generative AI. I specialize in building intelligent systems using tools like TensorFlow, Scikit-learn, and Hugging Face Transformers.I’ve worked on real-world projects like flight fare prediction, emotion detection from videos, and fraud detection systems. I enjoy solving problems using data, whether it’s through predictive modeling, NLP, or deep learning.",
   github:   "https://github.com/Abhishek-guptaaa",
-  resume:   "https://drive.google.com/file/d/1KnzojDsOMHuX98jnHYJ2u-7PBebhMDUe/view",
+  resume:   "https://drive.google.com/file/d/1PNaU0BJ25xVsHrYOjBPuC1vaVX-4W0ex/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/abhishek-gupta99/",
 
 };
